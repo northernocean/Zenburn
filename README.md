@@ -30,7 +30,7 @@ information and list of derivatives, visit http://kippura.org/zenburnpage
 ### INSTALLATION
 
 To use Zenburn in GVim, simply copy the file to colors/ subdirectory under your
-Vim configuration folder (e.g. `~/.vim/colors` or `C:\vim\colors`).
+Vim configuration folder (e.g. `~/.vim/colors` or `C:\vim\colors` or `C:\vimfiles\colors`).
 
 To use Zenburn in Vim, you must enable the 256-color mode for Vim. This can be
 done with e.g. `export TERM=xterm-256color`. You might also need to add 
